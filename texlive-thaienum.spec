@@ -1,6 +1,6 @@
 Name:		texlive-thaienum
 Version:	44140
-Release:	1
+Release:	2
 Summary:	Thai labels in enumerate environments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thaienum
