@@ -3,7 +3,7 @@ Version:	44140
 Release:	2
 Summary:	Thai labels in enumerate environments
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thaienum
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/thaienum
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thaienum.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thaienum.doc.r%{version}.tar.xz
